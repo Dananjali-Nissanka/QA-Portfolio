@@ -34,6 +34,7 @@ end-to-end QA activities.
 
 ## Tools & Technologies
 - Manual Testing
+- Bug Reporting
 - Selenium (Basic)
 - Cypress (Beginner)
 - Postman (Basic API Testing)
