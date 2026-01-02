@@ -7,16 +7,14 @@ for QA portfolio purposes.The main objective of this portfolio is to demonstrate
 my understanding of software testing concepts, test case design, defect 
 identification, and test documentation.
 
-#### Related Repository
-- Application Under Test: https://github.com/Dananjali-Nissanka/qa-website
-
 ## Project Overview
 The primary application tested in this portfolio is **Good Habits Tracker**,
 a simple web application developed using HTML and CSS and maintained in a
-separate repository (**qa-website**).
+separate repository (**qa-website**). This application was intentionally 
+created to practice and demonstrate end-to-end QA activities.
 
-This application was intentionally created to practice and demonstrate
-end-to-end QA activities.
+#### Related Repository
+- Application Under Test: https://github.com/Dananjali-Nissanka/qa-website
 
 ### Application Features
 - User Registration
