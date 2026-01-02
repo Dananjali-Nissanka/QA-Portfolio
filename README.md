@@ -36,9 +36,14 @@ end-to-end QA activities.
 ## Tools & Technologies
 - Manual Testing
 - Bug Reporting
-- Selenium (Basic)
-- Cypress (Beginner)
-- Postman (Basic API Testing)
+- Selenium (Basic – In Progress)
+- Cypress (Beginner – In Progress)
+
+## Automation Testing (In Progress)
+
+Automation testing is currently being implemented for selected test cases
+using Selenium and Cypress. This section will be updated with automation
+scripts, framework structure, and execution results as coverage expands.
 
 ## Purpose
 This repository is maintained as part of my learning journey and to present
