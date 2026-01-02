@@ -5,6 +5,9 @@ It showcases my hands-on experience in manual testing, basic automation testing,
 and API testing performed on a sample web application created specifically
 for QA portfolio purposes.
 
+### Related Repository
+- Application Under Test: https://github.com/Dananjali-Nissanka/qa-website
+
 The main objective of this portfolio is to demonstrate my understanding of
 software testing concepts, test case design, defect identification, and
 test documentation.
