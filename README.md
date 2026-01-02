@@ -3,14 +3,12 @@
 This repository contains my self-learning Quality Assurance (QA) projects.
 It showcases my hands-on experience in manual testing, basic automation testing,
 and API testing performed on a sample web application created specifically
-for QA portfolio purposes.
+for QA portfolio purposes.The main objective of this portfolio is to demonstrate 
+my understanding of software testing concepts, test case design, defect 
+identification, and test documentation.
 
-### Related Repository
+#### Related Repository
 - Application Under Test: https://github.com/Dananjali-Nissanka/qa-website
-
-The main objective of this portfolio is to demonstrate my understanding of
-software testing concepts, test case design, defect identification, and
-test documentation.
 
 ## Project Overview
 The primary application tested in this portfolio is **Good Habits Tracker**,
